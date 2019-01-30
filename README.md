@@ -1,4 +1,6 @@
 # calculator-vuejs-bootstrap
+### You can study grid layout using VueJS and Bootstrap
+### You can implement the iPhone Calculator's screen
 
 ## Project setup
 ```
